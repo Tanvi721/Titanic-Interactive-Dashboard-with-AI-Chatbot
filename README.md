@@ -70,3 +70,35 @@ The dashboard uses the **Titanic dataset** with the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/titanic-dashboard-ai.git
+2. Navigate to the project folder:
+    ```bash
+    cd titanic-dashboard-ai
+3. Install required libraries:
+    ```bash
+    pip install -r requirements.txt
+4. Run the Streamlit app:
+    ```bash
+    streamlit run app.py
+
+## 📸 Screenshots
+
+
+# 📈 Future Enhancements
+
+- Add more advanced AI analytics
+
+- Improve chatbot accuracy
+
+- Deploy the app online
+
+- Add downloadable reports
+
+## 🤝 Contributing
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request.
+
+# 👩‍💻 Author
+Tanvi Barve
+Data Analyst | AI/ML Engineer | AI Agents Developer
+
+    
