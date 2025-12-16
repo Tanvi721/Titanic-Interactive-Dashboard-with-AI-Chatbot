@@ -80,8 +80,6 @@ The dashboard uses the **Titanic dataset** with the following columns:
     ```bash
     streamlit run app.py
 
-## 📸 Screenshots
-
 
 # 📈 Future Enhancements
 
